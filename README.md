@@ -1,24 +1,22 @@
-# ASH's GitHub README
+# Hi there! 👋 I'm Ash
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/opaeoh?style=social)
-![X followers](https://img.shields.io/badge/Followers-X-brightgreen)
+I'm a coder passionate about AI and ML, and I love building cool stuff with code.
+
+![Your GIF goes here](url_to_your_gif.gif)
+
+## Connect with Me
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/opaeoh?style=social)](https://twitter.com/opaeoh)
 
 ## About Me
 
-Hello! I'm ASH, a coder passionate about AI and ML.
-
-## 🚀 Projects
-
-- **Project A**: Short description.
-- **Project B**: Short description.
-
-## 📫 Contact Me
-
-- Twitter: [@opaeoh](https://twitter.com/Opaeoh)
+- 💻 I'm currently working on [nograd](link_to_project_repo)
+- 🌱 I'm learning [C]
 
 
----
 
-![Replace this with your image](https://via.placeholder.com/480x270.png?text=Your+Image+Here)
+## Skills
+
+- Languages: [Python , Java , HTML , CSS , JS ]
+
 
