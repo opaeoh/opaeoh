@@ -1,5 +1,5 @@
-# 💫 About Me:
-I run @Idaeyus 
+#  About Me:
+I run @Idaeyus :)
 
 
 ## 🌐 Socials:
